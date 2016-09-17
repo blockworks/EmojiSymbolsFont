@@ -1,0 +1,11 @@
+#file ignore
+Thumbs.db
+.DS_Store
+*.log
+
+#directory ignore
+.idea/
+node_modules/
+.sass-cache/
+log/
+
